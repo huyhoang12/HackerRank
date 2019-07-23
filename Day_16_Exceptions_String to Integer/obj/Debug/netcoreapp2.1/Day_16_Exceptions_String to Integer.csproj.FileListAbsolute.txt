@@ -1,0 +1,10 @@
+D:\HackerRank\HackerRank\Day_16_Exceptions_String to Integer\bin\Debug\netcoreapp2.1\Day_16_Exceptions_String to Integer.deps.json
+D:\HackerRank\HackerRank\Day_16_Exceptions_String to Integer\bin\Debug\netcoreapp2.1\Day_16_Exceptions_String to Integer.runtimeconfig.json
+D:\HackerRank\HackerRank\Day_16_Exceptions_String to Integer\bin\Debug\netcoreapp2.1\Day_16_Exceptions_String to Integer.runtimeconfig.dev.json
+D:\HackerRank\HackerRank\Day_16_Exceptions_String to Integer\bin\Debug\netcoreapp2.1\Day_16_Exceptions_String to Integer.dll
+D:\HackerRank\HackerRank\Day_16_Exceptions_String to Integer\bin\Debug\netcoreapp2.1\Day_16_Exceptions_String to Integer.pdb
+D:\HackerRank\HackerRank\Day_16_Exceptions_String to Integer\obj\Debug\netcoreapp2.1\Day_16_Exceptions_String to Integer.csproj.CoreCompileInputs.cache
+D:\HackerRank\HackerRank\Day_16_Exceptions_String to Integer\obj\Debug\netcoreapp2.1\Day_16_Exceptions_String to Integer.AssemblyInfoInputs.cache
+D:\HackerRank\HackerRank\Day_16_Exceptions_String to Integer\obj\Debug\netcoreapp2.1\Day_16_Exceptions_String to Integer.AssemblyInfo.cs
+D:\HackerRank\HackerRank\Day_16_Exceptions_String to Integer\obj\Debug\netcoreapp2.1\Day_16_Exceptions_String to Integer.dll
+D:\HackerRank\HackerRank\Day_16_Exceptions_String to Integer\obj\Debug\netcoreapp2.1\Day_16_Exceptions_String to Integer.pdb

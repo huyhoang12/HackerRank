@@ -1,0 +1,11 @@
+D:\HackerRank\HackerRank\HackerRank\bin\Debug\netcoreapp2.1\Day8_DictionariesAndMaps.deps.json
+D:\HackerRank\HackerRank\HackerRank\bin\Debug\netcoreapp2.1\Day8_DictionariesAndMaps.runtimeconfig.json
+D:\HackerRank\HackerRank\HackerRank\bin\Debug\netcoreapp2.1\Day8_DictionariesAndMaps.runtimeconfig.dev.json
+D:\HackerRank\HackerRank\HackerRank\bin\Debug\netcoreapp2.1\Day8_DictionariesAndMaps.dll
+D:\HackerRank\HackerRank\HackerRank\bin\Debug\netcoreapp2.1\Day8_DictionariesAndMaps.pdb
+D:\HackerRank\HackerRank\HackerRank\obj\Debug\netcoreapp2.1\Day8_DictionariesAndMaps.csprojAssemblyReference.cache
+D:\HackerRank\HackerRank\HackerRank\obj\Debug\netcoreapp2.1\Day8_DictionariesAndMaps.csproj.CoreCompileInputs.cache
+D:\HackerRank\HackerRank\HackerRank\obj\Debug\netcoreapp2.1\Day8_DictionariesAndMaps.AssemblyInfoInputs.cache
+D:\HackerRank\HackerRank\HackerRank\obj\Debug\netcoreapp2.1\Day8_DictionariesAndMaps.AssemblyInfo.cs
+D:\HackerRank\HackerRank\HackerRank\obj\Debug\netcoreapp2.1\Day8_DictionariesAndMaps.dll
+D:\HackerRank\HackerRank\HackerRank\obj\Debug\netcoreapp2.1\Day8_DictionariesAndMaps.pdb

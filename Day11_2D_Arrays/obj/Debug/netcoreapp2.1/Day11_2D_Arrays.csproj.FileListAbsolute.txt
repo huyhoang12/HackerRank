@@ -1,0 +1,11 @@
+D:\HackerRank\HackerRank\Day11_2D_Arrays\bin\Debug\netcoreapp2.1\Day11_2D_Arrays.deps.json
+D:\HackerRank\HackerRank\Day11_2D_Arrays\bin\Debug\netcoreapp2.1\Day11_2D_Arrays.runtimeconfig.json
+D:\HackerRank\HackerRank\Day11_2D_Arrays\bin\Debug\netcoreapp2.1\Day11_2D_Arrays.runtimeconfig.dev.json
+D:\HackerRank\HackerRank\Day11_2D_Arrays\bin\Debug\netcoreapp2.1\Day11_2D_Arrays.dll
+D:\HackerRank\HackerRank\Day11_2D_Arrays\bin\Debug\netcoreapp2.1\Day11_2D_Arrays.pdb
+D:\HackerRank\HackerRank\Day11_2D_Arrays\obj\Debug\netcoreapp2.1\Day11_2D_Arrays.csprojAssemblyReference.cache
+D:\HackerRank\HackerRank\Day11_2D_Arrays\obj\Debug\netcoreapp2.1\Day11_2D_Arrays.csproj.CoreCompileInputs.cache
+D:\HackerRank\HackerRank\Day11_2D_Arrays\obj\Debug\netcoreapp2.1\Day11_2D_Arrays.AssemblyInfoInputs.cache
+D:\HackerRank\HackerRank\Day11_2D_Arrays\obj\Debug\netcoreapp2.1\Day11_2D_Arrays.AssemblyInfo.cs
+D:\HackerRank\HackerRank\Day11_2D_Arrays\obj\Debug\netcoreapp2.1\Day11_2D_Arrays.dll
+D:\HackerRank\HackerRank\Day11_2D_Arrays\obj\Debug\netcoreapp2.1\Day11_2D_Arrays.pdb

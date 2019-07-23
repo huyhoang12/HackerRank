@@ -1,0 +1,59 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\HackerRank\\HackerRank\\Day_16_Exceptions_String to Integer\\Day_16_Exceptions_String to Integer.csproj": {}
+  },
+  "projects": {
+    "D:\\HackerRank\\HackerRank\\Day_16_Exceptions_String to Integer\\Day_16_Exceptions_String to Integer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\HackerRank\\HackerRank\\Day_16_Exceptions_String to Integer\\Day_16_Exceptions_String to Integer.csproj",
+        "projectName": "Day_16_Exceptions_String to Integer",
+        "projectPath": "D:\\HackerRank\\HackerRank\\Day_16_Exceptions_String to Integer\\Day_16_Exceptions_String to Integer.csproj",
+        "packagesPath": "C:\\Users\\Hoang Vuong\\.nuget\\packages\\",
+        "outputPath": "D:\\HackerRank\\HackerRank\\Day_16_Exceptions_String to Integer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Hoang Vuong\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

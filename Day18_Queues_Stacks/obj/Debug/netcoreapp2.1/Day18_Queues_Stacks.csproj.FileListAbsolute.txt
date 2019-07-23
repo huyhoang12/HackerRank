@@ -1,0 +1,10 @@
+D:\HackerRank\HackerRank\Day18_Queues_Stacks\bin\Debug\netcoreapp2.1\Day18_Queues_Stacks.deps.json
+D:\HackerRank\HackerRank\Day18_Queues_Stacks\bin\Debug\netcoreapp2.1\Day18_Queues_Stacks.runtimeconfig.json
+D:\HackerRank\HackerRank\Day18_Queues_Stacks\bin\Debug\netcoreapp2.1\Day18_Queues_Stacks.runtimeconfig.dev.json
+D:\HackerRank\HackerRank\Day18_Queues_Stacks\bin\Debug\netcoreapp2.1\Day18_Queues_Stacks.dll
+D:\HackerRank\HackerRank\Day18_Queues_Stacks\bin\Debug\netcoreapp2.1\Day18_Queues_Stacks.pdb
+D:\HackerRank\HackerRank\Day18_Queues_Stacks\obj\Debug\netcoreapp2.1\Day18_Queues_Stacks.csproj.CoreCompileInputs.cache
+D:\HackerRank\HackerRank\Day18_Queues_Stacks\obj\Debug\netcoreapp2.1\Day18_Queues_Stacks.AssemblyInfoInputs.cache
+D:\HackerRank\HackerRank\Day18_Queues_Stacks\obj\Debug\netcoreapp2.1\Day18_Queues_Stacks.AssemblyInfo.cs
+D:\HackerRank\HackerRank\Day18_Queues_Stacks\obj\Debug\netcoreapp2.1\Day18_Queues_Stacks.dll
+D:\HackerRank\HackerRank\Day18_Queues_Stacks\obj\Debug\netcoreapp2.1\Day18_Queues_Stacks.pdb
