@@ -8,3 +8,4 @@ D:\HackerRank\HackerRank\Day18_Queues_Stacks\obj\Debug\netcoreapp2.1\Day18_Queue
 D:\HackerRank\HackerRank\Day18_Queues_Stacks\obj\Debug\netcoreapp2.1\Day18_Queues_Stacks.AssemblyInfo.cs
 D:\HackerRank\HackerRank\Day18_Queues_Stacks\obj\Debug\netcoreapp2.1\Day18_Queues_Stacks.dll
 D:\HackerRank\HackerRank\Day18_Queues_Stacks\obj\Debug\netcoreapp2.1\Day18_Queues_Stacks.pdb
+D:\HackerRank\HackerRank\Day18_Queues_Stacks\obj\Debug\netcoreapp2.1\Day18_Queues_Stacks.csprojAssemblyReference.cache

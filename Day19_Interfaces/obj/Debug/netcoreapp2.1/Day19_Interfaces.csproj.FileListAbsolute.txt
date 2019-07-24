@@ -1,0 +1,10 @@
+D:\HackerRank\HackerRank\Day19_Interfaces\bin\Debug\netcoreapp2.1\Day19_Interfaces.deps.json
+D:\HackerRank\HackerRank\Day19_Interfaces\bin\Debug\netcoreapp2.1\Day19_Interfaces.runtimeconfig.json
+D:\HackerRank\HackerRank\Day19_Interfaces\bin\Debug\netcoreapp2.1\Day19_Interfaces.runtimeconfig.dev.json
+D:\HackerRank\HackerRank\Day19_Interfaces\bin\Debug\netcoreapp2.1\Day19_Interfaces.dll
+D:\HackerRank\HackerRank\Day19_Interfaces\bin\Debug\netcoreapp2.1\Day19_Interfaces.pdb
+D:\HackerRank\HackerRank\Day19_Interfaces\obj\Debug\netcoreapp2.1\Day19_Interfaces.csproj.CoreCompileInputs.cache
+D:\HackerRank\HackerRank\Day19_Interfaces\obj\Debug\netcoreapp2.1\Day19_Interfaces.AssemblyInfoInputs.cache
+D:\HackerRank\HackerRank\Day19_Interfaces\obj\Debug\netcoreapp2.1\Day19_Interfaces.AssemblyInfo.cs
+D:\HackerRank\HackerRank\Day19_Interfaces\obj\Debug\netcoreapp2.1\Day19_Interfaces.dll
+D:\HackerRank\HackerRank\Day19_Interfaces\obj\Debug\netcoreapp2.1\Day19_Interfaces.pdb
